@@ -10,6 +10,7 @@
 	<Item Name="Internal VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Property Name="NI.SortType" Type="Int">3</Property>
+		<Item Name="Get Size of Data from TD.vi" Type="VI" URL="../Get Size of Data from TD.vi"/>
 		<Item Name="Get All Private Data Controls.vi" Type="VI" URL="../Get All Private Data Controls.vi"/>
 		<Item Name="Get ClassName From Flattened Object.vi" Type="VI" URL="../Get ClassName From Flattened Object.vi"/>
 		<Item Name="Get ClusterData From LabVIEW Object.vi" Type="VI" URL="../Get ClusterData From LabVIEW Object.vi"/>
@@ -24,4 +25,5 @@
 	<Item Name="Compose LabVIEW Object.vim" Type="VI" URL="../Compose LabVIEW Object.vim"/>
 	<Item Name="Decompose Cluster.vi" Type="VI" URL="../Decompose Cluster.vi"/>
 	<Item Name="Decompose LabVIEW Object.vi" Type="VI" URL="../Decompose LabVIEW Object.vi"/>
+	<Item Name="Decompose Map.vi" Type="VI" URL="../Decompose Map.vi"/>
 </Library>

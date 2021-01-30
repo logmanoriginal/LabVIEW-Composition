@@ -1,6 +1,8 @@
 # LabVIEW Composition
 
-Implements functions to compose and decompose objects and clusters in LabVIEW, effectively breaking [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) by making private data accessible. Use with caution!
+Implements functions to compose and decompose objects, clusters, and maps in LabVIEW, effectively breaking [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) by making private data accessible. Use with caution!
+
+*Note*: Maps are available in LabVIEW 2019 and later.
 
 ## Useful links
 
