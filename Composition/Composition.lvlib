@@ -26,4 +26,5 @@
 	<Item Name="Decompose Cluster.vi" Type="VI" URL="../Decompose Cluster.vi"/>
 	<Item Name="Decompose LabVIEW Object.vi" Type="VI" URL="../Decompose LabVIEW Object.vi"/>
 	<Item Name="Decompose Map.vi" Type="VI" URL="../Decompose Map.vi"/>
+	<Item Name="Decompose Set.vi" Type="VI" URL="../Decompose Set.vi"/>
 </Library>
