@@ -15,6 +15,7 @@
 			<Item Name="Parent.lvclass" Type="LVClass" URL="../Classes/Parent/Parent.lvclass"/>
 			<Item Name="Child.lvclass" Type="LVClass" URL="../Classes/Child/Child.lvclass"/>
 			<Item Name="Aggregate.lvclass" Type="LVClass" URL="../Classes/Aggregate/Aggregate.lvclass"/>
+			<Item Name="Broken.lvclass" Type="LVClass" URL="../Classes/Broken/Broken.lvclass"/>
 		</Item>
 		<Item Name="Compose" Type="Folder">
 			<Item Name="Compose LabVIEW Object - String - Value.vi" Type="VI" URL="../Compose LabVIEW Object - String - Value.vi"/>
@@ -34,6 +35,7 @@
 			<Item Name="Decompose LabVIEW Object - Child - Library Version Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Library Version Value.vi"/>
 			<Item Name="Decompose LabVIEW Object - Child - Class Name Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Count.vi"/>
 			<Item Name="Decompose LabVIEW Object - Child - Class Name Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi"/>
 			<Item Name="Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi"/>
 		</Item>
 	</Item>
