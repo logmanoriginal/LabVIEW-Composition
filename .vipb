@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-03-27 21:27:37" Creator="Pascal Neuperger" Comments="" ID="a4ad06771928e2dc13f1b8d6b130eac8">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-04-01 22:14:35" Creator="Pascal Neuperger" Comments="" ID="a7b0fddb5a086e755b7fa98a1bb25e14">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
-    <Library_Version>1.0.0.6</Library_Version>
+    <Library_Version>1.0.1.7</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -44,7 +44,7 @@ Maps and Sets require LabVIEW 2019 or higher.</Description>
       <Copyright>Copyright (c) 2021, Pascal Neuperger</Copyright>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/LabVIEW-Composition</URL>
-      <Release_Notes>First release</Release_Notes>
+      <Release_Notes>- [#4] Fixed object decomposition failure when the current application instance contains a broken class.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -135,11 +135,8 @@ Maps and Sets require LabVIEW 2019 or higher.</Description>
       <Exclusions>
         <Path>Composition.lvproj</Path>
       </Exclusions>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
-    <License_Agreement_Filepath>..\..\..\Code\logmanoriginal\labview-composition\LICENSE.txt</License_Agreement_Filepath>
+    <License_Agreement_Filepath>LICENSE.txt</License_Agreement_Filepath>
     <Licensing_and_Activation>
       <License_LF_file_path/>
       <Licensed_library_file_path/>
@@ -243,7 +240,7 @@ SPDX-License-Identifier: BSD-3-Clause
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Decompose Cluster.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Decompose Cluster</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -271,7 +268,7 @@ SPDX-License-Identifier: BSD-3-Clause
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Decompose LabVIEW Object.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Decompose LabVIEW Object</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -285,7 +282,7 @@ SPDX-License-Identifier: BSD-3-Clause
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Decompose Map.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Decompose Map</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -299,7 +296,7 @@ SPDX-License-Identifier: BSD-3-Clause
       <Items_Data>
         <Type>Item</Type>
         <Sub_Palette_Index>-1</Sub_Palette_Index>
-        <NameSub_Menu_Name>Decompose Set.vi</NameSub_Menu_Name>
+        <NameSub_Menu_Name>Decompose Set</NameSub_Menu_Name>
         <Short_Name/>
         <is_Merge_VI>false</is_Merge_VI>
         <Position>
@@ -310,7 +307,7 @@ SPDX-License-Identifier: BSD-3-Clause
         <Path>Composition\Decompose Set.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>73719540C1F0274C933F51A3A1F7FFA5</GUID>
+      <GUID>3AD909F0FEF44C5CEE1E22919A1F5248</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
