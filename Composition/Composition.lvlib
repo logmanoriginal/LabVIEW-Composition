@@ -23,6 +23,8 @@
 	</Item>
 	<Item Name="Compose Cluster.vim" Type="VI" URL="../Compose Cluster.vim"/>
 	<Item Name="Compose LabVIEW Object.vim" Type="VI" URL="../Compose LabVIEW Object.vim"/>
+	<Item Name="Compose Map.vim" Type="VI" URL="../Compose Map.vim"/>
+	<Item Name="Compose Set.vim" Type="VI" URL="../Compose Set.vim"/>
 	<Item Name="Decompose Cluster.vi" Type="VI" URL="../Decompose Cluster.vi"/>
 	<Item Name="Decompose LabVIEW Object.vi" Type="VI" URL="../Decompose LabVIEW Object.vi"/>
 	<Item Name="Decompose Map.vi" Type="VI" URL="../Decompose Map.vi"/>
