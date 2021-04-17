@@ -59,4 +59,70 @@
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
+	<Item Name="Get Size of Data from TD" Type="Folder">
+		<Item Name="Get Size of Data from TD - U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Boolean - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Boolean - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - SGL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Refnum - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Refnum - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - DBL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CSG Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - EXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CDB Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - String - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - String - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Picture - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Picture - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Path - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Path - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Error Cluster - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Error Cluster - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - TimeStamp - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - TimeStamp - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
+	</Item>
 </Library>
