@@ -94,8 +94,8 @@
 		<Item Name="Get Size of Data from TD - Path - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Path - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Error Cluster - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Error Cluster - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - TimeStamp - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - TimeStamp - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi"/>
@@ -123,6 +123,9 @@
 		<Item Name="Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
 		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
 		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi"/>
 		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
 	</Item>
 </Library>
