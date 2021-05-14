@@ -1,7 +1,7 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Library LVVersion="17008000">
-	<Property Name="NI.Lib.Icon" Type="Bin">&amp;Q#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)`!!!*Q(C=\&gt;7R&lt;&gt;N!&amp;-&lt;R,U%+N^IAU!JPA$2#.N!#+F\L5K64MMA#$`!%7I'&amp;&amp;HAL;!/&lt;N2N"`P0Q*&amp;!+%!G)H;1Q[:/JDX@P@DY?;+E&gt;&gt;^)8(;Y&gt;K^]?N^VHMN&lt;/,S&lt;DV8Z7GH[ZP.][((P6])PRU[N@[B_H8EWGP^(`*`?P(0IY0IZ`?`SYOEH@@=^_UPACIC5N;%YTD6-&gt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)WUEO=J',(&amp;)S?4*25D1JE(3'IO1D]33?R*.Y_+L%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")0J:IEWUG/*`&amp;18I%H]!3?Q".YG&amp;+"*Q!%EQ7&amp;AS)Q&amp;.Q-,A*0Y!E]8#LQ"*\!%XA#$\=6?!*0Y!E]A9=B&lt;67C;=;4(!^FZ(A=D_.R0)[(UH)]DM@R/"\(QX2S0)\(14A4/M5BS"HE&gt;(#_/"\(QS]Z(M@D?"S0Y_&amp;7?U,?6G&lt;5D#=Z(M.D?!S0Y4%]F*$B-4S'R`!9(ML+]"A?QW.Y$!^4S@!9(M.D1)R*G6Z'-7/AU=E)$!]`&lt;&lt;&gt;9?UL2*.:/K4;P;F/K.JNK%[EWB_KBKR[G[C'J&amp;F_VK+L&amp;5CW#[I^4I659V33KQ7.($8TO;$VN1_NI;^K3NK$.;&lt;.R["NX():"O^V/@&gt;^LM^GI[TKNVWMNFUMN&amp;AP.ZX0.:L04;_!LZ_G&amp;=0Z??PHZ`&gt;O_@T\M(Y?(`@:_O__?(P\#`^,`Y.WITZL7:9V?!3V5J9=!!!!!</Property>
-	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
+<Library LVVersion="20008000">
+	<Property Name="NI.Lib.Icon" Type="Bin">)!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)`!!!*Q(C=\&gt;7R&lt;&gt;N!&amp;-&lt;R,U%+N^IAU!JPA$2#.N!#+F\L5K64MMA#$`!%7I'&amp;&amp;HAL;!/&lt;N2N"`P0Q*&amp;!+%!G)H;1Q[:/JDX@P@DY?;+E&gt;&gt;^)8(;Y&gt;K^]?N^VHMN&lt;/,S&lt;DV8Z7GH[ZP.][((P6])PRU[N@[B_H8EWGP^(`*`?P(0IY0IZ`?`SYOEH@@=^_UPACIC5N;%YTD6-&gt;EDT*ETT*ETT*ATT)ATT)ATT)H&gt;T*H&gt;T*H&gt;T*D&gt;T)D&gt;T)D&gt;T)WUEO=J',(&amp;)S?4*25D1JE(3'IO1D]33?R*.Y_+L%EXA34_**0(22YEE]C3@R*"['+@%EHM34?")0J:IEWUG/*`&amp;18I%H]!3?Q".YG&amp;+"*Q!%EQ7&amp;AS)Q&amp;.Q-,A*0Y!E]8#LQ"*\!%XA#$\=6?!*0Y!E]A9=B&lt;67C;=;4(!^FZ(A=D_.R0)[(UH)]DM@R/"\(QX2S0)\(14A4/M5BS"HE&gt;(#_/"\(QS]Z(M@D?"S0Y_&amp;7?U,?6G&lt;5D#=Z(M.D?!S0Y4%]F*$B-4S'R`!9(ML+]"A?QW.Y$!^4S@!9(M.D1)R*G6Z'-7/AU=E)$!]`&lt;&lt;&gt;9?UL2*.:/K4;P;F/K.JNK%[EWB_KBKR[G[C'J&amp;F_VK+L&amp;5CW#[I^4I659V33KQ7.($8TO;$VN1_NI;^K3NK$.;&lt;.R["NX():"O^V/@&gt;^LM^GI[TKNVWMNFUMN&amp;AP.ZX0.:L04;_!LZ_G&amp;=0Z??PHZ`&gt;O_@T\M(Y?(`@:_O__?(P\#`^,`Y.WITZL7:9V?!3V5J9=!!!!!</Property>
+	<Property Name="NI.Lib.SourceVersion" Type="Int">536903680</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Property Name="NI.SortType" Type="Int">3</Property>
@@ -45,6 +45,10 @@
 			<Item Name="Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi"/>
 			<Item Name="Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi"/>
 			<Item Name="Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
+		</Item>
+		<Item Name="Interfaces" Type="Folder">
+			<Item Name="IDisposable.lvclass" Type="LVClass" URL="../IDisposable/IDisposable.lvclass"/>
+			<Item Name="Simple Disposable.lvclass" Type="LVClass" URL="../Simple Disposable/Simple Disposable.lvclass"/>
 		</Item>
 	</Item>
 	<Item Name="Cluster" Type="Folder">
@@ -136,4 +140,10 @@
 		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi"/>
 		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
 	</Item>
+	<Item Name="Decompose LabVIEW Object - Interface - Returns No Error.vi" Type="VI" URL="../Decompose LabVIEW Object - Interface - Returns No Error.vi"/>
+	<Item Name="Decompose LabVIEW Object - Interface - Returns No Private Data Clusters.vi" Type="VI" URL="../Decompose LabVIEW Object - Interface - Returns No Private Data Clusters.vi"/>
+	<Item Name="Decompose LabVIEW Object - Interface - Returns No Library Versions.vi" Type="VI" URL="../Decompose LabVIEW Object - Interface - Returns No Library Versions.vi"/>
+	<Item Name="Decompose LabVIEW Object - Interface - Returns No Class Names.vi" Type="VI" URL="../Decompose LabVIEW Object - Interface - Returns No Class Names.vi"/>
+	<Item Name="Compose LabVIEW Object - Interface - Returns No Error.vi" Type="VI" URL="../Compose LabVIEW Object - Interface - Returns No Error.vi"/>
+	<Item Name="Compose LabVIEW Object - Interface Class - Returns No Error.vi" Type="VI" URL="../Compose LabVIEW Object - Interface Class - Returns No Error.vi"/>
 </Library>
