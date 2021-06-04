@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-05-15 08:36:24" Creator="Pascal Neuperger" Comments="" ID="bdb2aae08a0c7c7674a3cb60f5f6a820">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-06-04 23:20:58" Creator="Pascal Neuperger" Comments="" ID="b2b9808bcf7e673b50fdb48fb54d9e16">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
-    <Library_Version>1.2.1.15</Library_Version>
+    <Library_Version>1.2.2.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -37,8 +37,7 @@ Maps and Sets require LabVIEW 2019 or higher.</Description>
       <Copyright>Copyright (c) 2021, Pascal Neuperger</Copyright>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/LabVIEW-Composition</URL>
-      <Release_Notes>- [#6] Fixed an issue that resulted in error 1004 when (de-)composing classes that implement interfaces in LabVIEW 2020+
-- [#7] Fixed an issue that resulted in error 1401 when composing child classes whose version number is higher than their parent.</Release_Notes>
+      <Release_Notes>- [#9] Fixed an issue in "Decompose LabVIEW Object", which results in empty data when the private data cluster is defined as indicator.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -329,7 +328,7 @@ SPDX-License-Identifier: BSD-3-Clause
         <Path>Composition\Compose Set.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F62E932B5B50EE8581B3FC98CB6786CB</GUID>
+      <GUID>FA18FA008C9DFFF78A5F3C9B8F9F310B</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
