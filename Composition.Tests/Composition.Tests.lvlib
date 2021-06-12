@@ -23,6 +23,9 @@
 			<Item Name="Compose LabVIEW Object - String - Value.vi" Type="VI" URL="../Compose LabVIEW Object - String - Value.vi"/>
 			<Item Name="Compose LabVIEW Object - Child - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Child - Value.vi"/>
 			<Item Name="Compose LabVIEW Object - Aggregate - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Aggregate - Value.vi"/>
+			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Error.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Error.vi"/>
+			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Object.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Object.vi"/>
+			<Item Name="Compose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Compose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
 		</Item>
 		<Item Name="Decompose" Type="Folder">
 			<Item Name="Decompose LabVIEW Object - String - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Private Data Cluster Count.vi"/>
