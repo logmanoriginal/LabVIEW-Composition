@@ -44,6 +44,7 @@
 			<Item Name="Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi"/>
 			<Item Name="Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi"/>
 			<Item Name="Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi"/>
+			<Item Name="Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Cluster" Type="Folder">
