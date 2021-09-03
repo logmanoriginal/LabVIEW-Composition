@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-03 17:03:06" Creator="Pascal Neuperger" Comments="" ID="be083fa1ca360a3e973413d06f6463bf">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-03 17:47:26" Creator="Pascal Neuperger" Comments="" ID="5c63abc749787f678621f45da07600c2">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
-    <Library_Version>1.2.3.20</Library_Version>
+    <Library_Version>1.2.4.21</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -38,6 +38,7 @@ Maps and Sets require LabVIEW 2019 or higher.</Description>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/LabVIEW-Composition</URL>
       <Release_Notes>- Fixed in issue in "Decompose LabVIEW Object", which resulted in errors being lost due to internal caching.
+- [#12] Fixed an issue in "Decompose LabVIEW Object", which resulted in error 1013 when accessing the front panel of private data controls in the runtime environment.
 - [#13] Fixed an issue in "Decompose LabVIEW Object", where errors from SubVIs were not reported to the caller.</Release_Notes>
     </Description>
     <Destinations>
