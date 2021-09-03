@@ -1,4 +1,4 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-03 16:18:46" Creator="Pascal Neuperger" Comments="" ID="74c6bf2a28b2fb356a0dda999e03f4d9">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-03 17:03:06" Creator="Pascal Neuperger" Comments="" ID="be083fa1ca360a3e973413d06f6463bf">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
     <Library_Version>1.2.3.20</Library_Version>
@@ -37,7 +37,8 @@ Maps and Sets require LabVIEW 2019 or higher.</Description>
       <Copyright>Copyright (c) 2021, Pascal Neuperger</Copyright>
       <Packager/>
       <URL>https://github.com/LogMANOriginal/LabVIEW-Composition</URL>
-      <Release_Notes>- [#13] Fixed an issue in "Decompose LabVIEW Object", where errors from SubVIs were not reported to the caller.</Release_Notes>
+      <Release_Notes>- Fixed in issue in "Decompose LabVIEW Object", which resulted in errors being lost due to internal caching.
+- [#13] Fixed an issue in "Decompose LabVIEW Object", where errors from SubVIs were not reported to the caller.</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -331,7 +332,7 @@ SPDX-License-Identifier: BSD-3-Clause
         <Path>Composition\Compose Set.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>171701BC8F25DC56F37D4A0285E13961</GUID>
+      <GUID>6EAA2D01861B7E526DD59E12C7060FA6</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
