@@ -10,7 +10,7 @@
 </Property>
 	<Item Name="LabVIEW Object" Type="Folder">
 		<Item Name="Classes" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="String.lvclass" Type="LVClass" URL="../Classes/String/String.lvclass"/>
 			<Item Name="Parent.lvclass" Type="LVClass" URL="../Classes/Parent/Parent.lvclass"/>
 			<Item Name="Child.lvclass" Type="LVClass" URL="../Classes/Child/Child.lvclass"/>
@@ -64,7 +64,7 @@
 		</Item>
 	</Item>
 	<Item Name="Runtime" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="Get Size of Data from TD" Type="Folder">
