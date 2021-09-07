@@ -33,6 +33,7 @@
 		<Item Name="Get Cluster Data Size.vi" Type="VI" URL="../Get Cluster Data Size.vi"/>
 		<Item Name="Get Path Data Size.vi" Type="VI" URL="../Get Path Data Size.vi"/>
 		<Item Name="Get String Data Size.vi" Type="VI" URL="../Get String Data Size.vi"/>
+		<Item Name="Is Interface Or LabVIEW Object.vi" Type="VI" URL="../Is Interface Or LabVIEW Object.vi"/>
 	</Item>
 	<Item Name="Compose Cluster.vim" Type="VI" URL="../Compose Cluster.vim"/>
 	<Item Name="Compose LabVIEW Object.vim" Type="VI" URL="../Compose LabVIEW Object.vim"/>
