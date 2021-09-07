@@ -47,6 +47,7 @@
 			<Item Name="Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
 		</Item>
 		<Item Name="Interfaces" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
 			<Item Name="IDisposable.lvclass" Type="LVClass" URL="../IDisposable/IDisposable.lvclass"/>
 			<Item Name="Simple Disposable.lvclass" Type="LVClass" URL="../Simple Disposable/Simple Disposable.lvclass"/>
 		</Item>
