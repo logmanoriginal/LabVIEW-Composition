@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-07 20:30:47" Creator="Pascal Neuperger" Comments="" ID="c8e41bd79c66d7add7a5d180051ef1f1">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2021-03-27 21:11:16" Modified_Date="2021-09-07 20:40:12" Creator="Pascal Neuperger" Comments="" ID="33031dd5aa0f3307c3f881f2ab98582e">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
-    <Library_Version>1.3.0.23</Library_Version>
+    <Library_Version>1.3.0.24</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -335,7 +335,7 @@ SPDX-License-Identifier: BSD-3-Clause
         <Path>Composition\Compose Set.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D495CAA5582F71D2779F368A573E0039</GUID>
+      <GUID>29EB78DC8D87A862EC20A39B1C27A219</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
