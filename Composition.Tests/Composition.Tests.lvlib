@@ -64,7 +64,7 @@
 		</Item>
 	</Item>
 	<Item Name="Runtime" Type="Folder">
-		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
 	</Item>
 	<Item Name="Get Size of Data from TD" Type="Folder">
