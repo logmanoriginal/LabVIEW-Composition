@@ -42,6 +42,9 @@
 
 Composes and decomposes objects, clusters, maps and sets in LabVIEW, effectively breaking [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) by making private data accessible. Use with caution!
 
+### Known Issues
+* `Decompose Set` is not safe to use for LabVIEW 2019 to 2023 Q3 because of a known issue in the `Variant To Flattened String` primitive. It was tracked under issue number 2058864 and fixed in LabVIEW 2024 Q1.<sup>[1] [2] [3]</sup>
+
 ### Built With
 
 * [LabVIEW&trade;](https://www.ni.com/labview)
@@ -125,3 +128,7 @@ Project Link: [https://github.com/logmanoriginal/labview-composition](https://gi
 [license-url]: https://github.com/logmanoriginal/labview-composition/blob/master/LICENSE.txt
 [azure-build-status-url]: https://dev.azure.com/neuperger/Public/_build/latest?definitionId=17&branchName=master
 [azure-build-status-shield]: https://img.shields.io/azure-devops/build/neuperger/public/17/master?style=for-the-badge&logo=azure-pipelines&label=Azure%20Pipelines
+
+[1]: https://lavag.org/topic/21918-potential-memory-corruption-when-de-serializing-sets-in-labview-2019-sp1-f3-32-bit/
+[2]: https://www.ni.com/en/support/documentation/bugs/23/labview-2023-q3-known-issues.html
+[3]: https://www.ni.com/en/support/documentation/bugs/24/labview-2024-q1-bug-fixes.html
