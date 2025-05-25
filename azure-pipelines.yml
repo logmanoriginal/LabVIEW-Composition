@@ -9,12 +9,12 @@ steps:
 - task: CmdLine@2
   displayName: 'Restore packages'
   inputs:
-    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\dev.vipc"'
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc"'
     workingDirectory: '$(Build.SourcesDirectory)'
 - task: CmdLine@2
   displayName: 'Run tests'
   inputs:
-    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
     workingDirectory: '$(Build.SourcesDirectory)'
 - task: PublishTestResults@2
   displayName: 'Publish test results'

@@ -66,7 +66,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    start .vipc
    ```
-   Or apply `.vipc` manually.
+   Or apply `LabVIEW Composition.vipc` manually.
 
 <!-- USAGE EXAMPLES -->
 ## Usage
