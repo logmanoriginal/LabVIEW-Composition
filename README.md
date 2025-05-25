@@ -43,7 +43,7 @@
 Composes and decomposes objects, clusters, maps and sets in LabVIEW, effectively breaking [encapsulation](https://en.wikipedia.org/wiki/Encapsulation_(computer_programming)) by making private data accessible. Use with caution!
 
 ### Known Issues
-* `Decompose Set` is not safe to use for LabVIEW 2019 to 2023 Q3 because of a known issue in the `Variant To Flattened String` primitive. It was tracked under issue number 2058864 and fixed in LabVIEW 2024 Q1.<sup>[1] [2] [3]</sup>
+* `Decompose Set` is not safe to use in LabVIEW 2019 to 2023 Q3 because of a known issue in the `Variant To Flattened String` primitive. It was tracked under issue number 2058864 and fixed in LabVIEW 2024 Q1.<sup>[1] [2] [3]</sup>
 
 ### Built With
 
@@ -77,6 +77,12 @@ To get a local copy up and running follow these simple steps.
 Here is an example that takes an object and writes new data to it.
 
 ![Example](.github/images/example1.png)
+
+> [!NOTE]
+> There are more examples in the [Examples](/Examples) folder.
+> These examples are also available in Example Finder in directory view under `PNR/LabVIEW Composition`.
+
+![Example Finder](.github/images/example-finder.png)
 
 <!-- ROADMAP -->
 ## Roadmap
@@ -113,6 +119,7 @@ Project Link: [https://github.com/logmanoriginal/labview-composition](https://gi
 ## Acknowledgements
 
 * [Caraya Unit Test Framework](https://github.com/JKISoftware/Caraya)
+* [Code Capture Tool](https://lavag.org/files/file/63-code-capture-tool)
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->

@@ -12,6 +12,10 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="Examples" Type="Folder">
+			<Item Name="Object.vi" Type="VI" URL="../Examples/Object.vi"/>
+			<Item Name="Example Class.lvclass" Type="LVClass" URL="../Examples/Example Class/Example Class.lvclass"/>
+		</Item>
 		<Item Name="Composition.lvlib" Type="Library" URL="../Composition/Composition.lvlib"/>
 		<Item Name="Composition.Tests.lvlib" Type="Library" URL="../Composition.Tests/Composition.Tests.lvlib"/>
 		<Item Name="Dependencies" Type="Dependencies">
