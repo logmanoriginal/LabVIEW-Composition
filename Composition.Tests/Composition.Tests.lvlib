@@ -4,136 +4,146 @@
 	<Property Name="NI.Lib.SourceVersion" Type="Int">385908736</Property>
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
-	<Property Name="NI.SortType" Type="Int">3</Property>
 	<Property Name="NI_IconEditor" Type="Str">49 57 48 49 56 48 48 53 13 0 0 0 0 1 23 21 76 111 97 100 32 38 32 85 110 108 111 97 100 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 9 0 0 13 39 1 100 1 100 80 84 72 48 0 0 0 4 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 1 15 13 76 97 121 101 114 46 108 118 99 108 97 115 115 0 0 1 0 0 0 0 0 7 0 0 12 182 0 0 0 0 0 0 0 0 0 0 12 158 0 40 0 0 12 152 0 0 12 0 0 0 0 0 0 32 0 32 0 24 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 149 74 135 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4 70 105 108 108 100 1 0 2 0 0 0 5 116 101 115 116 115 0 0 0 0 0 0 0 0 0 0 0 0 0 255 255 255 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11 83 109 97 108 108 32 70 111 110 116 115 0 1 8 1 1
 
 </Property>
-	<Item Name="LabVIEW Object" Type="Folder">
-		<Item Name="Classes" Type="Folder">
-			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-			<Item Name="String.lvclass" Type="LVClass" URL="../Classes/String/String.lvclass"/>
-			<Item Name="Parent.lvclass" Type="LVClass" URL="../Classes/Parent/Parent.lvclass"/>
-			<Item Name="Child.lvclass" Type="LVClass" URL="../Classes/Child/Child.lvclass"/>
-			<Item Name="Aggregate.lvclass" Type="LVClass" URL="../Classes/Aggregate/Aggregate.lvclass"/>
-			<Item Name="Broken.lvclass" Type="LVClass" URL="../Classes/Broken/Broken.lvclass"/>
-			<Item Name="Private Data Indicator.lvclass" Type="LVClass" URL="../Classes/Private Data Indicator/Private Data Indicator.lvclass"/>
-			<Item Name="Unnamed Private Data Control.lvclass" Type="LVClass" URL="../Classes/Unnamed Private Data Control/Unnamed Private Data Control.lvclass"/>
-		</Item>
+	<Item Name="Array" Type="Folder">
 		<Item Name="Compose" Type="Folder">
-			<Item Name="Compose LabVIEW Object - String - Value.vi" Type="VI" URL="../Compose LabVIEW Object - String - Value.vi"/>
-			<Item Name="Compose LabVIEW Object - Child - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Child - Value.vi"/>
-			<Item Name="Compose LabVIEW Object - Aggregate - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Aggregate - Value.vi"/>
-			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Error.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Error.vi"/>
-			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Object.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Object.vi"/>
-			<Item Name="Compose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Compose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
+			<Item Name="Compose Array - 2D Array - Returns Array.vi" Type="VI" URL="../Compose Array - 2D Array - Returns Array.vi"/>
+			<Item Name="Compose Array - 3D Array - Returns Array.vi" Type="VI" URL="../Compose Array - 3D Array - Returns Array.vi"/>
 		</Item>
 		<Item Name="Decompose" Type="Folder">
-			<Item Name="Decompose LabVIEW Object - String - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Private Data Cluster Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - String - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Private Data Cluster Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - String - Library Version Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Library Version Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - String - Library Version Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Library Version Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - String - Class Name Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Class Name Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - String - Class Name Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Class Name Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Private Data Cluster Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Private Data Cluster Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Library Version Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Library Version Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Library Version Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Library Version Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Class Name Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - Child - Class Name Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi"/>
-			<Item Name="Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi"/>
-			<Item Name="Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi"/>
-			<Item Name="Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi"/>
-			<Item Name="Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
+			<Item Name="Decompose Array - 1D Array - Returns All Elements.vi" Type="VI" URL="../Decompose Array - 1D Array - Returns All Elements.vi"/>
+			<Item Name="Decompose Array - 2D Array - Returns All Elements.vi" Type="VI" URL="../Decompose Array - 2D Array - Returns All Elements.vi"/>
+			<Item Name="Decompose Array - 3D Array - Returns All Elements.vi" Type="VI" URL="../Decompose Array - 3D Array - Returns All Elements.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Cluster" Type="Folder">
 		<Item Name="Compose" Type="Folder">
 			<Item Name="Compose Cluster - Array - Element Value.vi" Type="VI" URL="../Compose Cluster - Array - Element Value.vi"/>
-			<Item Name="Compose Cluster - String - Element Value.vi" Type="VI" URL="../Compose Cluster - String - Element Value.vi"/>
 			<Item Name="Compose Cluster - Mixed - Element Value.vi" Type="VI" URL="../Compose Cluster - Mixed - Element Value.vi"/>
 			<Item Name="Compose Cluster - Nested - Element Value.vi" Type="VI" URL="../Compose Cluster - Nested - Element Value.vi"/>
+			<Item Name="Compose Cluster - String - Element Value.vi" Type="VI" URL="../Compose Cluster - String - Element Value.vi"/>
 		</Item>
 		<Item Name="Decompose" Type="Folder">
-			<Item Name="Decompose Cluster - String - Element Count.vi" Type="VI" URL="../Decompose Cluster - String - Element Count.vi"/>
-			<Item Name="Decompose Cluster - String - Element Type.vi" Type="VI" URL="../Decompose Cluster - String - Element Type.vi"/>
-			<Item Name="Decompose Cluster - String - Element Value.vi" Type="VI" URL="../Decompose Cluster - String - Element Value.vi"/>
 			<Item Name="Decompose Cluster - Mixed - Element Count.vi" Type="VI" URL="../Decompose Cluster - Mixed - Element Count.vi"/>
 			<Item Name="Decompose Cluster - Mixed - Element Type.vi" Type="VI" URL="../Decompose Cluster - Mixed - Element Type.vi"/>
 			<Item Name="Decompose Cluster - Mixed - Element Value.vi" Type="VI" URL="../Decompose Cluster - Mixed - Element Value.vi"/>
+			<Item Name="Decompose Cluster - String - Element Count.vi" Type="VI" URL="../Decompose Cluster - String - Element Count.vi"/>
+			<Item Name="Decompose Cluster - String - Element Type.vi" Type="VI" URL="../Decompose Cluster - String - Element Type.vi"/>
+			<Item Name="Decompose Cluster - String - Element Value.vi" Type="VI" URL="../Decompose Cluster - String - Element Value.vi"/>
+		</Item>
+	</Item>
+	<Item Name="Get Size of Data from TD" Type="Folder">
+		<Item Name="Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
+		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
+		<Item Name="Get Size of Data from TD - Boolean - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Boolean - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CDB Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CSG Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - CXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - DBL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Enum U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Error Cluster - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Error Cluster - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - EXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Path - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Path - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Picture - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Picture - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Refnum - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Refnum - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - SGL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL Physical - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - String - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - String - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - TimeStamp - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - TimeStamp - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi"/>
+	</Item>
+	<Item Name="LabVIEW Object" Type="Folder">
+		<Item Name="Classes" Type="Folder">
+			<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
+			<Item Name="Aggregate.lvclass" Type="LVClass" URL="../Classes/Aggregate/Aggregate.lvclass"/>
+			<Item Name="Broken.lvclass" Type="LVClass" URL="../Classes/Broken/Broken.lvclass"/>
+			<Item Name="Child.lvclass" Type="LVClass" URL="../Classes/Child/Child.lvclass"/>
+			<Item Name="Parent.lvclass" Type="LVClass" URL="../Classes/Parent/Parent.lvclass"/>
+			<Item Name="Private Data Indicator.lvclass" Type="LVClass" URL="../Classes/Private Data Indicator/Private Data Indicator.lvclass"/>
+			<Item Name="String.lvclass" Type="LVClass" URL="../Classes/String/String.lvclass"/>
+			<Item Name="Unnamed Private Data Control.lvclass" Type="LVClass" URL="../Classes/Unnamed Private Data Control/Unnamed Private Data Control.lvclass"/>
+		</Item>
+		<Item Name="Compose" Type="Folder">
+			<Item Name="Compose LabVIEW Object - Aggregate - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Aggregate - Value.vi"/>
+			<Item Name="Compose LabVIEW Object - Child - Value.vi" Type="VI" URL="../Compose LabVIEW Object - Child - Value.vi"/>
+			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Error.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Error.vi"/>
+			<Item Name="Compose LabVIEW Object - Error Input - Returns Same Object.vi" Type="VI" URL="../Compose LabVIEW Object - Error Input - Returns Same Object.vi"/>
+			<Item Name="Compose LabVIEW Object - String - Value.vi" Type="VI" URL="../Compose LabVIEW Object - String - Value.vi"/>
+			<Item Name="Compose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Compose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
+		</Item>
+		<Item Name="Decompose" Type="Folder">
+			<Item Name="Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Aggregate - Private Data Cluster Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Class Name Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Class Name Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Class Name Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Library Version Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Library Version Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Library Version Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Library Version Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Private Data Cluster Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - Child - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - Child - Private Data Cluster Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - Disabled Broken Class - Private Data Cluster Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Private Data Indicator - Returns Private Data.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Class Name Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Class Name Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Class Name Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Class Name Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Library Version Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Library Version Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Library Version Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Library Version Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Private Data Cluster Count.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Private Data Cluster Count.vi"/>
+			<Item Name="Decompose LabVIEW Object - String - Private Data Cluster Value.vi" Type="VI" URL="../Decompose LabVIEW Object - String - Private Data Cluster Value.vi"/>
+			<Item Name="Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi" Type="VI" URL="../Decompose LabVIEW Object - Unnamed Private Data Control - Returns Private Data.vi"/>
+			<Item Name="Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi" Type="VI" URL="../Decompose LabVIEW Object - Warning Input - Returns Same Warning.vi"/>
 		</Item>
 	</Item>
 	<Item Name="Runtime" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">1</Property>
 		<Item Name="Main.vi" Type="VI" URL="../Main.vi"/>
-	</Item>
-	<Item Name="Get Size of Data from TD" Type="Folder">
-		<Item Name="Get Size of Data from TD - U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U8 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U16 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U32 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U64 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I8 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I16 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I32 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - I64 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Boolean - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Boolean - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Enum U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U8 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Enum U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U16 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Enum U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Enum U32 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - SGL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - SGL Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Refnum - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Refnum - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - DBL Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - DBL Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CSG Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CSG Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - EXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - EXT Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CDB Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CDB Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - CXT Physical - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - CXT Physical - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - String - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - String - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Picture - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Picture - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (DBL) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 1D Array (String) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 2D Array (DBL) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - 3D Array (DBL) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Path - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Path - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Error Cluster - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Error Cluster - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Cluster of Error Clusters - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - TimeStamp - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - TimeStamp - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform DBL - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform SGL - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform EXT - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U8 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I8 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I16 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U16 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U32 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I32 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform I64 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform U64 - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (1 String) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (2 Strings) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Set Collection (3 Strings) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (1 Element) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (2 Elements) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Map Collection (3 Elements) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Empty) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Waveform (Ramp 256 Samples) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Empty) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Digital Data (Ramp 256 Samples) - Returns Correct Size.vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Array of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Fixed-size Type (DBL) - Should Perform in O(1).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Set Collection of Dynamic-size Type (String) - Should Perform in O(n).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key (I32,String) - Should Perform in O(1)+O(n).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Key and Value (I32,I32) - Should Perform in O(1)+O(1).vi"/>
-		<Item Name="Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi" Type="VI" URL="../Get Size of Data from TD - Benchmark Map Collection of Fixed-size Value (String,Int32) - Should Perform in O(n)+O(1).vi"/>
-		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
 	</Item>
 </Library>

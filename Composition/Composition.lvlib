@@ -35,10 +35,12 @@
 		<Item Name="Get String Data Size.vi" Type="VI" URL="../Get String Data Size.vi"/>
 		<Item Name="Is Interface Or LabVIEW Object.vi" Type="VI" URL="../Is Interface Or LabVIEW Object.vi"/>
 	</Item>
+	<Item Name="Compose Array.vim" Type="VI" URL="../Compose Array.vim"/>
 	<Item Name="Compose Cluster.vim" Type="VI" URL="../Compose Cluster.vim"/>
 	<Item Name="Compose LabVIEW Object.vim" Type="VI" URL="../Compose LabVIEW Object.vim"/>
 	<Item Name="Compose Map.vim" Type="VI" URL="../Compose Map.vim"/>
 	<Item Name="Compose Set.vim" Type="VI" URL="../Compose Set.vim"/>
+	<Item Name="Decompose Array.vi" Type="VI" URL="../Decompose Array.vi"/>
 	<Item Name="Decompose Cluster.vi" Type="VI" URL="../Decompose Cluster.vi"/>
 	<Item Name="Decompose LabVIEW Object.vi" Type="VI" URL="../Decompose LabVIEW Object.vi"/>
 	<Item Name="Decompose Map.vi" Type="VI" URL="../Decompose Map.vi"/>
