@@ -11,6 +11,7 @@ steps:
 - script: 'LabVIEWCLI -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc" -Headless'
   workingDirectory: '$(Build.SourcesDirectory)'
   displayName: 'Restore packages'
+  retryCountOnTaskFailure: 3 # LabVIEWCLI can fail because of slow initialization
 
 - script: 'LabVIEWCLI -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"  -Headless'
   workingDirectory: '$(Build.SourcesDirectory)'
