@@ -1,21 +1,18 @@
 trigger:
 - '*'
 
-pool:
-  name: Default
-  demands: LabVIEW
+container:
+  image: nationalinstruments/labview:2026q1-windows-beta
 
 steps:
-- task: CmdLine@2
+- script: 'LabVIEWCLI -Headless -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc"'
+  workingDirectory: '$(Build.SourcesDirectory)'
   displayName: 'Restore packages'
-  inputs:
-    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc"'
-    workingDirectory: '$(Build.SourcesDirectory)'
-- task: CmdLine@2
+
+- script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
+  workingDirectory: '$(Build.SourcesDirectory)'
   displayName: 'Run tests'
-  inputs:
-    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
-    workingDirectory: '$(Build.SourcesDirectory)'
+
 - task: PublishTestResults@2
   displayName: 'Publish test results'
   inputs:
