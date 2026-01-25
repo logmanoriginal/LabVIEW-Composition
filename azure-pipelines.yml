@@ -1,6 +1,9 @@
 trigger:
 - '*'
 
+pool:
+  vmImage: windows-latest
+
 container:
   image: nationalinstruments/labview:2026q1-windows-beta
 
