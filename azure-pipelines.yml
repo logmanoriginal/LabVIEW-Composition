@@ -8,11 +8,11 @@ container:
   image: nationalinstruments/labview:2026q1-windows-beta
 
 steps:
-- script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc" -Headless'
+- script: 'LabVIEWCLI -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Restore -Configuration "$(Build.SourcesDirectory)\packages-dev.vipc" -Headless'
   workingDirectory: '$(Build.SourcesDirectory)'
   displayName: 'Restore packages'
 
-- script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"  -Headless'
+- script: 'LabVIEWCLI -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"  -Headless'
   workingDirectory: '$(Build.SourcesDirectory)'
   displayName: 'Run tests'
 
