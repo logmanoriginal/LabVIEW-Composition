@@ -16,6 +16,7 @@ steps:
   inputs:
     script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\LabVIEW Composition.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
     workingDirectory: '$(Build.SourcesDirectory)'
+- template: Tests/all-tests.yml
 - task: PublishTestResults@2
   displayName: 'Publish test results'
   inputs:
