@@ -1,0 +1,11 @@
+steps:
+- task: CmdLine@2
+  displayName: 'PPL - Private Class - Build Dependencies'
+  inputs:
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -OperationName ExecuteBuildSpec -ProjectPath "$(Build.SourcesDirectory)\Tests\PPL_PrivateClass\PPL_PrivateClass.lvproj"'
+    workingDirectory: '$(Build.SourcesDirectory)'
+- task: CmdLine@2
+  displayName: 'PPL - Private Class - Run Tests'
+  inputs:
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\Tests\PPL_PrivateClass\PPL_PrivateClass_TestCase.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
+    workingDirectory: '$(Build.SourcesDirectory)'
