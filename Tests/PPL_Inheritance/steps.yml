@@ -1,0 +1,11 @@
+steps:
+- task: CmdLine@2
+  displayName: 'PPL - Inheritance - Build Dependencies'
+  inputs:
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -OperationName ExecuteBuildSpec -ProjectPath "$(Build.SourcesDirectory)\Tests\PPL_Inheritance\PPL_Inheritance.lvproj"'
+    workingDirectory: '$(Build.SourcesDirectory)'
+- task: CmdLine@2
+  displayName: 'PPL - Inheritance - Run Tests'
+  inputs:
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\Tests\PPL_Inheritance\PPL_Inheritance_TestCase.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
+    workingDirectory: '$(Build.SourcesDirectory)'
