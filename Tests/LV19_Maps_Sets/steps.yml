@@ -1,0 +1,6 @@
+steps:
+- task: CmdLine@2
+  displayName: 'LV19 - Maps & Sets - Run Tests'
+  inputs:
+    script: 'LabVIEWCLI -LabVIEWPath "%LabVIEW%\LabVIEW.exe" -AdditionalOperationDirectory "$(Build.SourcesDirectory)\Toolchain" -OperationName Test -Project "$(Build.SourcesDirectory)\Tests\LV19_Maps_Sets\LV19_Maps_Sets.lvproj" -ResultsFolder "$(System.DefaultWorkingDirectory)\TestResults"'
+    workingDirectory: '$(Build.SourcesDirectory)'

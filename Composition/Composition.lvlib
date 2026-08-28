@@ -17,24 +17,25 @@
 	</Item>
 	<Item Name="Internal VIs" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">2</Property>
-		<Property Name="NI.SortType" Type="Int">3</Property>
-		<Item Name="Get ClassName From Flattened Object.vi" Type="VI" URL="../Get ClassName From Flattened Object.vi"/>
-		<Item Name="Get ClusterData From LabVIEW Object.vi" Type="VI" URL="../Get ClusterData From LabVIEW Object.vi"/>
-		<Item Name="Get NumLevels From Flattened Object.vi" Type="VI" URL="../Get NumLevels From Flattened Object.vi"/>
-		<Item Name="Get VersionList From Flattened Object.vi" Type="VI" URL="../Get VersionList From Flattened Object.vi"/>
-		<Item Name="Lookup Object Hierarchy.vi" Type="VI" URL="../Lookup Object Hierarchy.vi"/>
-		<Item Name="Is Fixed-Size.vi" Type="VI" URL="../Is Fixed-Size.vi"/>
 		<Item Name="Data Type.ctl" Type="VI" URL="../Data Type.ctl"/>
-		<Item Name="Get Data Type.vi" Type="VI" URL="../Get Data Type.vi"/>
 		<Item Name="Get Array Data Size.vi" Type="VI" URL="../Get Array Data Size.vi"/>
-		<Item Name="Get Set Collection Data Size.vi" Type="VI" URL="../Get Set Collection Data Size.vi"/>
-		<Item Name="Get Map Collection Data Size.vi" Type="VI" URL="../Get Map Collection Data Size.vi"/>
-		<Item Name="Get Waveform Data Size.vi" Type="VI" URL="../Get Waveform Data Size.vi"/>
+		<Item Name="Get ClassName From Flattened Object.vi" Type="VI" URL="../Get ClassName From Flattened Object.vi"/>
 		<Item Name="Get Cluster Data Size.vi" Type="VI" URL="../Get Cluster Data Size.vi"/>
+		<Item Name="Get ClusterData From LabVIEW Object.vi" Type="VI" URL="../Get ClusterData From LabVIEW Object.vi"/>
+		<Item Name="Get Data Type.vi" Type="VI" URL="../Get Data Type.vi"/>
+		<Item Name="Get Map Collection Data Size.vi" Type="VI" URL="../Get Map Collection Data Size.vi"/>
+		<Item Name="Get NumLevels From Flattened Object.vi" Type="VI" URL="../Get NumLevels From Flattened Object.vi"/>
 		<Item Name="Get Path Data Size.vi" Type="VI" URL="../Get Path Data Size.vi"/>
+		<Item Name="Get Set Collection Data Size.vi" Type="VI" URL="../Get Set Collection Data Size.vi"/>
 		<Item Name="Get String Data Size.vi" Type="VI" URL="../Get String Data Size.vi"/>
-		<Item Name="Is Interface Or LabVIEW Object.vi" Type="VI" URL="../Is Interface Or LabVIEW Object.vi"/>
+		<Item Name="Get Variant Boxed Type Data Size.vi" Type="VI" URL="../Get Variant Boxed Type Data Size.vi"/>
+		<Item Name="Get Variant Data Size.vi" Type="VI" URL="../Get Variant Data Size.vi"/>
+		<Item Name="Get VersionList From Flattened Object.vi" Type="VI" URL="../Get VersionList From Flattened Object.vi"/>
+		<Item Name="Get Waveform Data Size.vi" Type="VI" URL="../Get Waveform Data Size.vi"/>
+		<Item Name="Is Fixed-Size.vi" Type="VI" URL="../Is Fixed-Size.vi"/>
 		<Item Name="Is From Packed Library.vi" Type="VI" URL="../Is From Packed Library.vi"/>
+		<Item Name="Is Interface Or LabVIEW Object.vi" Type="VI" URL="../Is Interface Or LabVIEW Object.vi"/>
+		<Item Name="Lookup Object Hierarchy.vi" Type="VI" URL="../Lookup Object Hierarchy.vi"/>
 		<Item Name="Make From Packed Library.vi" Type="VI" URL="../Make From Packed Library.vi"/>
 	</Item>
 	<Item Name="Compose Array.vim" Type="VI" URL="../Compose Array.vim"/>
