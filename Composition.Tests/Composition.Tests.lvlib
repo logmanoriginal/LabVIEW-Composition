@@ -88,6 +88,13 @@
 		<Item Name="Get Size of Data from TD - U32 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U32 - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - U64 - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - U64 - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Unknown Type - Returns Error 5000.vi" Type="VI" URL="../Get Size of Data from TD - Unknown Type - Returns Error 5000.vi"/>
+		<Item Name="Get Size of Data from TD - Variant (Boxed Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant (Boxed Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant (Empty) - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant (Empty) - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant Cluster With Duplicate Items - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant Cluster With Duplicate Items - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant Error Cluster - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant Error Cluster - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant String - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant String - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant With Attributes - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant With Attributes - Returns Correct Size.vi"/>
+		<Item Name="Get Size of Data from TD - Variant With Nested Variant Attributes - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Variant With Nested Variant Attributes - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CDB - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CSG - Returns Correct Size.vi"/>
 		<Item Name="Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi" Type="VI" URL="../Get Size of Data from TD - Waveform CXT - Returns Correct Size.vi"/>
