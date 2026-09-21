@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-03-27 21:11:16" Modified_Date="2026-04-11 16:41:36" Creator="Pascal Neuperger" Comments="" ID="71d389d371aa5c7b38aff903ace2b219">
+<VI_Package_Builder_Settings Version="2020.1" Created_Date="2021-03-27 21:11:16" Modified_Date="2026-09-21 16:39:12" Creator="Pascal Neuperger" Comments="" ID="3dc752b30b609a596d84930292b06b9a">
   <Library_General_Settings>
     <Package_File_Name>PNR_lib_LabVIEW_Composition</Package_File_Name>
-    <Library_Version>1.4.1.34</Library_Version>
+    <Library_Version>1.5.0.35</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>..</Library_Output_Folder>
@@ -14,6 +14,8 @@
     <Product_Name>LabVIEW Composition</Product_Name>
     <Was_Built>true</Was_Built>
     <Target>LabVIEW</Target>
+    <Package_LabVIEW_Save_Version>false</Package_LabVIEW_Save_Version>
+    <LabVIEW_Save_Version/>
   </Library_General_Settings>
   <Advanced_Settings>
     <Package_Dependencies/>
@@ -27,7 +29,7 @@
     </Custom_Action_VIs>
     <VI_Package_Configuration_File>LabVIEW Composition.vipc</VI_Package_Configuration_File>
     <Description>
-      <One_Line_Description_Summary>Compose and decompose various LabVIEW data types</One_Line_Description_Summary>
+      <One_Line_Description_Summary>(De-)compose LabVIEW data types</One_Line_Description_Summary>
       <Description>This library provides functions to compose and decompose objects, clusters, maps and sets in LabVIEW - effectively breaking encapsulation by making private data accessible.
 
 Use with caution!
@@ -41,10 +43,9 @@ https://www.ni.com/en/support/documentation/bugs/24/labview-2024-q1-bug-fixes.ht
       <Copyright>Copyright (c) 2021-2026, Pascal Neuperger</Copyright>
       <Packager>Pascal Neuperger</Packager>
       <URL>https://github.com/logmanoriginal/LabVIEW-Composition</URL>
-      <Release_Notes>- Fixed failure in object composition for private classes inside PPLs
-- Fixed broken inheritance resolution when inheriting from a class inside a PPL
+      <Release_Notes>- Added support for variant types
 
-Full Changelog: https://github.com/logmanoriginal/LabVIEW-Composition/compare/1.4.0...1.4.1</Release_Notes>
+Full Changelog: https://github.com/logmanoriginal/LabVIEW-Composition/compare/1.4.1...1.5.0</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -152,6 +153,9 @@ Full Changelog: https://github.com/logmanoriginal/LabVIEW-Composition/compare/1.
       </Exclusions>
       <Exclusions>
         <Path>Tests</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>docs</Path>
       </Exclusions>
       <Place_Folder_Contents>
         <Path>Examples</Path>
@@ -382,7 +386,7 @@ SPDX-License-Identifier: BSD-3-Clause</Text_to_Add>
         <Path>Composition\Compose Array.vim</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>D7FAAF1750382F158FBC3C9F254F0452</GUID>
+      <GUID>CDED6CB8F056A2F541D17204BFD4214F</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
